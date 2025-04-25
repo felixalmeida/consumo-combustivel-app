@@ -21,12 +21,7 @@ Este é um aplicativo mobile desenvolvido em **React Native com Expo**, que perm
 1. Instale o [Expo Go](https://expo.dev/client) no seu celular
 2. Clone este repositório e execute:
 npm install npx expo start
-
-yaml
-Copiar
-Editar
 3. Escaneie o QR Code com o Expo Go
 
 ---
-
 📱 Projeto desenvolvido para fins educacionais.
